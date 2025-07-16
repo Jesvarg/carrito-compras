@@ -1,10 +1,6 @@
 # 🛒 Carrito de Compras
 
-> Landing page de productos tecnológicos con carrito interactivo desarrollado en React.
-
-![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-38B2AC?logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.23.0-ff69b4?logo=framer&logoColor=white)
+Landing page de productos tecnológicos con carrito interactivo desarrollado en React.
 
 ## ✨ Características
 
