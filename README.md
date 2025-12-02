@@ -1,24 +1,24 @@
-# 🛒 Carrito de Compras
+# Carrito de Compras
 
 Landing page de productos tecnológicos con carrito interactivo desarrollado en React.
 
-## ✨ Características
+## Características
 
-- 🛒 **Carrito** - Agregar, eliminar, modificar cantidades
-- 🔍 **Búsqueda y Ordenamiento** - Filtrado por nombre y precio
-- 🎨 **Diseño responsivo** - Adaptable a todos los dispositivos
-- 💾 **Persistencia** - Estado guardado en LocalStorage
-- 🔔 **Notificaciones** - Feedback visual con toasts y modales
-- 🎯 **Context API** - Gestión de estado global
+- **Carrito** - Agregar, eliminar, modificar cantidades
+- **Búsqueda y Ordenamiento** - Filtrado por nombre y precio
+- **Diseño responsivo** - Adaptable a todos los dispositivos
+- **Persistencia** - Estado guardado en LocalStorage
+- **Notificaciones** - Feedback visual con toasts y modales
+- **Context API** - Gestión de estado global
 
-## 🛠️ Tecnologías
+## Tecnologías
 
-- **React 19** - Componentes funcionales
-- **TailwindCSS** - Diseño responsivo
-- **Vite** - Build tool
+- **React 19**
+- **TailwindCSS**
+- **Vite**
 - **JavaScript**
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 # Clonar repositorio
@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-## 📁 Estructura
+## Estructura
 
 ```
 src/
